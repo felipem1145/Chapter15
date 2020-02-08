@@ -1,0 +1,10 @@
+C:\Users\Programming10\source\repos\Chapter16Exercise01\bin\Debug\Chapter16Exercise01.exe.config
+C:\Users\Programming10\source\repos\Chapter16Exercise01\bin\Debug\Chapter16Exercise01.exe
+C:\Users\Programming10\source\repos\Chapter16Exercise01\bin\Debug\Chapter16Exercise01.pdb
+C:\Users\Programming10\source\repos\Chapter16Exercise01\obj\Debug\Chapter16Exercise01.csprojAssemblyReference.cache
+C:\Users\Programming10\source\repos\Chapter16Exercise01\obj\Debug\Chapter16Exercise01.Form1.resources
+C:\Users\Programming10\source\repos\Chapter16Exercise01\obj\Debug\Chapter16Exercise01.Properties.Resources.resources
+C:\Users\Programming10\source\repos\Chapter16Exercise01\obj\Debug\Chapter16Exercise01.csproj.GenerateResource.cache
+C:\Users\Programming10\source\repos\Chapter16Exercise01\obj\Debug\Chapter16Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\Programming10\source\repos\Chapter16Exercise01\obj\Debug\Chapter16Exercise01.exe
+C:\Users\Programming10\source\repos\Chapter16Exercise01\obj\Debug\Chapter16Exercise01.pdb
